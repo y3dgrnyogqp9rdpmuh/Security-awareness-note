@@ -1,7 +1,8 @@
 # Security-awareness-note
 Concise and descriptive strategies and security measures explaining the importance of protecting one's online integrity.   
 
-Topics Covered 
+
+Topics Covered
 
 -Importance of Security Awareness
 
@@ -10,6 +11,7 @@ Topics Covered
 -Best Mitigation and Prevention Strategies
 
 -Security Awareness Tips
+
 
 Created By: Meleko Pilato
 
