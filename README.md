@@ -3,10 +3,13 @@ Concise and descriptive strategies and security measures explaining the importan
 
 Topics Covered 
 
-Importance of Security Awareness
-Key Security Awareness Topics
-Best Mitigation and Prevention Strategies
-Security Awareness Tips
+-Importance of Security Awareness
+
+-Key Security Awareness Topics
+
+-Best Mitigation and Prevention Strategies
+
+-Security Awareness Tips
 
 Created By: Meleko Pilato
 
