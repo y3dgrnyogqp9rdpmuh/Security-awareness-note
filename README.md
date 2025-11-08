@@ -1,4 +1,4 @@
-# Security-awareness-note
+# Security-Awareness-Note
 Concise and descriptive strategies and security measures explaining the importance of protecting one's online integrity.   
 
 
