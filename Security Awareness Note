@@ -1,0 +1,40 @@
+SECURITY AWARENESS NOTES
+
+WHY SECURITY AWARENESS?
+	PROTECT DATA CONFIDENTIALITY AND INTEGRITY: Being cyber aware is very vital especially in the modern digital environment where everyone has adopted to the use of a computing device and the internet. This helps individuals prevent breaches and unauthorised access to confidential information which maintains and sustains the data’s integrity.
+	CURB CYBER THREATS: By providing knowledgeable and literacy skills to different individuals this helps them to recognise and even try to avoid potential threats before they can even infiltrate their systems (Cybsafe, 2023)
+	ENSURES COMPLIENCE AND RISK MITIGATION: A large number of industries require regulation compliance that implement security awareness training. By insuring every employee within organizational territory is well trained and educated on emerging cyber threats, organizations meet the regulatory requirements which reduces the risk of legal implications in conjunction with data breaches (Kaspersky, n.d).
+
+KEY SECURITY AWARENESS TOPICS
+
+	PHISHING AND SOCIAL ENGINEERING: As an internet user, it is better to be safe than sorry and this can be done through monitoring and vigilance (Trevino, et al, 2023). By being cautious and knowledgeable on common cyber threats of the digital era such as suspicious emails and attachments one may be able to fend off these mutual attacks hence, they can protect their systems from being compromised.
+	PASSWORD MANAGEMENT:  Initialising and implementing an extra layer of security such as multi factor authentications and the utilization of strong passwords, is very essential in the digital race as they can help protect and fend off any brute force attempts to access one’s confidential data (Phishgrid, 2025).
+	NETWORK SECURITY: By using secure networks and keeping one’s software up-to-date, this helps mitigate and fend of any malicious attempts to breaches as these new updates are implemented with new security patches which makes it a vital priority to have them in order to maintain and ensure one’s network is safely secure.
+	DATA PROTECTION: By safeguarding and preventing unauthorised access and data breaches within one’s system or network, helps handle and maintain the data’s integrity and confidentiality. In other words, handling sensitive information securely and reporting any suspicious indicators swiftly helps protect an organizations or individuals’ data (Mishova, 2025).
+
+MITIGATION AND PREVENTION STRATEGIES
+	IMPLEMENTATION OF MULTI FACTOR AUTHENTICATION: This security mechanism which allows for users to incorporate two or more verification and authentication methods to gain access into a system, acts as an extra layer of security which greatly reduces the risk of unauthorised access and data breaches hence the protection and integrity of confidential data is maintained (geeksforgeeks, 2023).
+	REGULAR AUDITING AND SOFTWARE UPDATES: The utilization of strategies like auditing and regular software updates ensure that any security patches and vulnerabilities that might be of concern are immediately mitigated. In this case, this helps find any possible weaknesses in the system which are/will be immediately dealt with to ensure the security of information (pcpartsgeek, 2025).
+	IMPLEMENTATION OF AN INCIDENT RESPONSE PLAN: The utilization of this plan and its contents to is help identify, deal with and recover any damaged or breached resources in a system (Atumu, n.d). In other words, an incident response plan is an essential and vital tool or procedure to accumulate as it helps through its mitigation strategies and instructions to dispose of any malicious attacks that are fond of infiltrating the vulnerabilities within the system. 
+
+SECURITY AWARENESS TIPS
+	STAY VIGILANT: As an internet user, avoid engaging in any type of conversation and never share any confidential information with anyone without the confirmation and verification of the contact’s identity (Croisdale, 2025). Furthermore, report any suspicious online activity to the relevant authorities.
+	ASSESS THE ACCESS GIVEN TO THIRD PARTIES: Limit and be aware of the contents, permissions and credential information given to third party applications and websites in order to minimize risks associated with the third parties while maintaining necessary requirements and collaborations (Croisdale, 2025).
+	UTILIZE THE USE OF PASSWORD MANAGERS: These managers help and let users create complex passwords every time they sign-up or sign-in into a network or account, to prevent threat actors and malicious intenders from accessing their accounts (Croisdale, 2025).
+
+To sum it all up, by following these security awareness notes, internet users and online actors can reduce the risks of cyber threats by a great quantity hence the protection of user data integrity and confidentiality.
+
+
+REFERENCE LIST
+Croisdale, L, (2025). Top 10 Cybersecurity Awareness Tips: How to Stay Safe and Proactive, varonis.com, retrieved from (https://www.veronis.com)
+Atumu, M, (n.d). Cybersecurity threat mitigation: prevention and protection, liquidweb.com, retrieved from (https://www.liquidweb.com)
+pcpartsgeek, (2025). Update-Definition & Detailed Explanation-Software glossary Terms, pcpartsgeek.com, retrieved from (https://www.pcpartsgeek.com)
+geeksforgeeks, (2023). Multifactor Authentication, geeksforgeeks.org, retrieved from (https://www.geeksforgeeks.org)
+Mishova, A, (2025). What is Data Protection? Its Importance and Benefits, gdprlocal.com, retrieved from (https://www.gdprlocal.com)
+Trevino, A, Cutler, A, Guccione, D, (2023). Are Phishing and Social Engineering the Same? Keepersecurity.com, retrieved from (https://www.keepersecurity.com)
+Phishgrid, (2025). Top 14 Vital Security Awareness Training Topics for 2025, Phishgrid.com, retrieved from (https://www.phishgrid.com)
+Cybersafe, (2023). 7 reasons why security awareness training is important in 2023, cybersafe.com, retrieved from (https://www.cybersafe.com)
+Kaspersky, (n.d). What is security awareness training? Kaspersky.com, retrieved from (https://www.kaspersky.com)
+
+
+  
